@@ -1,28 +1,26 @@
-<img width="450" alt="스크린샷 2023-01-06 오전 9 40 39" src="https://user-images.githubusercontent.com/115536240/210906509-b807ff6c-e62b-4cba-8b5d-1eeb8555c38c.png">  
-  
-#### 여기 내 구역이야...
-내가만든 내새상이야!!!
+![MasterHead](https://user-images.githubusercontent.com/115536240/211234411-681549bf-ad8d-4cc8-a983-c583d719366d.png)
+<h1 align="center">Hi👋, My name is Deakuk</h1>
+<h3 align="center">I want to have the power to make my imagination a reality</h3>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/115536240/211233988-bdce5043-1731-4310-8548-c6e14c3844d3.png">
 <br>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=choideakook&label=Profile%20views&color=0e75b6&style=flat" alt="choideakook" /> </p>
 
-#### 📖 My tech stack
+- 🔭 I’m currently working on **the shopping mall**
+
+- 🌱 I’m currently learning **Java , Spring ,JPA , SQL**
+
+- 👨‍💻 I am studying to become **a backend developer**
+
+- 📫 How to reach me **shdrnrhd113@naver.com**
+<br>
+<h3 align="left">📚 My Stack</h3>
+</p>
+<p align="left"> 
 <img src="https://img.shields.io/badge/JAVA-E97627?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/macOS-E6E6E6?style=flat-square&logo=macOS&logoColor=black">
+<br><br>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choideakook&show_icons=true&locale=en&layout=compact" alt="choideakook" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choideakook&show_icons=true&theme=dracula)
-  
-#### About
-- 🌱 I'm learning Java Spring.
-- 🧐 I like change and look for new things.
-- 🚀 I want to have the power to make my imagination a reality
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=choideakook&show_icons=true&locale=en" alt="choideakook" /></p>
 
-
-#### Project
--
--
--
-
-## 
-#### Contact
-- ✉️ shdrnrhd113@naver.com
-- 👉 [About more]()
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choideakook&" alt="choideakook" /></p>
