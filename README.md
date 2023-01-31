@@ -17,6 +17,8 @@
 </p>
 <p align="left"> 
 <img src="https://img.shields.io/badge/JAVA-E97627?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/macOS-E6E6E6?style=flat-square&logo=macOS&logoColor=black"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Nintendo Switch-E60012?style=flat-square&logo=Nintendo%20Switch&logoColor=white"><img src="https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=PlayStation&logoColor=white"><img src="https://img.shields.io/badge/Steam Deck-1A9FFF?style=flat-square&logo=Steam%20Deck&logoColor=white">
 <br><br>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choideakook&show_icons=true&locale=en&layout=compact" alt="choideakook" /></p>
