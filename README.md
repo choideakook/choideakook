@@ -5,7 +5,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choideakook&label=Profile%20views&color=0e75b6&style=flat" alt="choideakook" /> </p>
 
-- 🔭 I’m currently working on **the shopping mall**
+- 🦁 I'm attending the 3rd class of **likelion Bag End School**
 
 - 🌱 I’m currently learning **Java , Spring ,JPA , SQL**
 
