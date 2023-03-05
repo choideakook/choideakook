@@ -21,8 +21,10 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/macOS-E6E6E6?style=flat-square&logo=macOS&logoColor=black"><img src="https://img.shields.io/badge/Nintendo Switch-E60012?style=flat-square&logo=Nintendo%20Switch&logoColor=white"><img src="https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=PlayStation&logoColor=white"><img src="https://img.shields.io/badge/Steam Deck-1A9FFF?style=flat-square&logo=Steam%20Deck&logoColor=white">
-<br><br>
-<img src="https://img.shields.io/badge/github-333333?style=flat-square&logo=github&logoColor=white">
+<br>
+
+[<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">](https://velog.io/@shdrnrhd113)<img src="https://img.shields.io/badge/github-333333?style=flat-square&logo=github&logoColor=white">
+
 <br><br>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choideakook&show_icons=true&locale=en&layout=compact" alt="choideakook" /></p>
